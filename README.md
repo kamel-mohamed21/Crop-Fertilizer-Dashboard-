@@ -91,9 +91,8 @@ The dataset contains information about:
 ---
 
 ## 🔗 Live Dashboard
-
-👉 Add your published dashboard link here:
-` https://app.powerbi.com/reportEmbed?reportId=4231779b-5aae-4c41-aa31-ad422a91524d&autoAuth=true&ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b`
+Click here to view the dashboard:  
+👉 [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=4231779b-5aae-4c41-aa31-ad422a91524d&autoAuth=true&ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b)
  
 
 ---
